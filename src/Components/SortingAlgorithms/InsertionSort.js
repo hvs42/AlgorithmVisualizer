@@ -1,0 +1,23 @@
+import { SWAP } from "../Helper/Flags";
+import swap from "../Helper/Swap";
+
+async function insertionSortMoves(array)
+{
+    let moves = [];
+
+    for(let i=0; i<array.length-1; i++)
+    {
+        let j = i;
+
+        while(j>=0 && array[j] > array[j+1])
+        {
+            await swap(array, j, j+1);
+            moves.push([j, j+1, SWAP]);
+            j--;
+        }
+    }
+
+    return moves;
+}
+
+export default insertionSortMoves;
