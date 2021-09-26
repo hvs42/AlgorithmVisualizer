@@ -27,7 +27,7 @@ function Navbar(props) {
         
             <div className="navbar-brand" >
                 <img src={logo} alt="Algo-Visualizer"/>
-                <span className="navbrandcss">Algo-Visualiser</span>
+                <span className="navbrandcss">Algo-Visualizer</span>
             </div>
 
             <div className="collapse navbar-collapse" id="navbarSupportedContent">
