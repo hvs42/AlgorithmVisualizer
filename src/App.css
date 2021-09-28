@@ -142,15 +142,15 @@
 
 #footer{
   text-align: center;
-  position: absolute;
-  bottom: 0;
+  position: fixed;
   width: 100%;
-  height: 2.5rem; 
+  height: 20px; 
   font-family: 'Open Sans', sans-serif;
   /* position: absolute; */
   /* padding: 10px 10px 0px 10px; */
-  bottom: 0;
+  bottom: 0px;
   width: 100%;
+  padding-bottom: 30px;
   /* Height of the footer*/ 
   /* height: 40px; */
   /* background: grey; */
