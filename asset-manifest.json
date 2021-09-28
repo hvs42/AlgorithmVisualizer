@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/AlgorithmVisualizer/static/css/main.df4ead23.chunk.css",
+    "main.css": "/AlgorithmVisualizer/static/css/main.286fdbc5.chunk.css",
     "main.js": "/AlgorithmVisualizer/static/js/main.f819aee2.chunk.js",
     "main.js.map": "/AlgorithmVisualizer/static/js/main.f819aee2.chunk.js.map",
     "runtime-main.js": "/AlgorithmVisualizer/static/js/runtime-main.46846642.js",
@@ -12,7 +12,7 @@
     "static/js/3.c8c37e5c.chunk.js.map": "/AlgorithmVisualizer/static/js/3.c8c37e5c.chunk.js.map",
     "index.html": "/AlgorithmVisualizer/index.html",
     "static/css/2.f4c56af9.chunk.css.map": "/AlgorithmVisualizer/static/css/2.f4c56af9.chunk.css.map",
-    "static/css/main.df4ead23.chunk.css.map": "/AlgorithmVisualizer/static/css/main.df4ead23.chunk.css.map",
+    "static/css/main.286fdbc5.chunk.css.map": "/AlgorithmVisualizer/static/css/main.286fdbc5.chunk.css.map",
     "static/js/2.f1ef2005.chunk.js.LICENSE.txt": "/AlgorithmVisualizer/static/js/2.f1ef2005.chunk.js.LICENSE.txt",
     "static/media/Logo.fe1a48e4.png": "/AlgorithmVisualizer/static/media/Logo.fe1a48e4.png"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.46846642.js",
     "static/css/2.f4c56af9.chunk.css",
     "static/js/2.f1ef2005.chunk.js",
-    "static/css/main.df4ead23.chunk.css",
+    "static/css/main.286fdbc5.chunk.css",
     "static/js/main.f819aee2.chunk.js"
   ]
 }
