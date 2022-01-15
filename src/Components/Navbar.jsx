@@ -68,11 +68,13 @@ function Navbar(props) {
 
             <div className="iconbar">
 
-                <a href="https://www.linkedin.com/in/harsh-vardhan-singh-ba02591b4/" target="_blank" rel="noopener noreferrer">
-                <i className="fab fa-linkedin fa-lg jump" ></i>
-                </a>
+                
                 <a href="https://github.com/hvs42" target="_blank" rel="noopener noreferrer">
                     <i className="fab fa-github fa-lg jump"></i>
+                </a>
+
+                <a href="https://www.linkedin.com/in/harsh-vardhan-singh-ba02591b4/" target="_blank" rel="noopener noreferrer">
+                <i className="fab fa-linkedin fa-lg jump" ></i>
                 </a>
             </div>
             </nav>
